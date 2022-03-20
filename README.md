@@ -6,5 +6,4 @@ For University of Arizona GIST604B class assignment
 2. The only real programing experience I have beyond python course in the MS-GIST program was as child on a Commodore VIC 20 and the Commodore 64.  However, I find it fascinating and am eager to learn more about coding and using various new applications.
 3. My hobbies include being an amateur photographer, my dog Ginger and my 2005 BMW R1200RT motorcycle.
 ---
-Here is my very basic website that I created at the end of 604A:
-[Crowe-About] (https://www.crowe-about.com/about)
+Here is my very basic website that I created at the end of 604A: https://www.crowe-about.com/about
